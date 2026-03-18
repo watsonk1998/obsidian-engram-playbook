@@ -4,6 +4,9 @@
 
 > A public, sanitized framework for running an Obsidian vault with durable memory, periodic review loops, and agent-friendly workflows.
 
+[![Repo Checks](https://github.com/watsonk1998/obsidian-engram-playbook/actions/workflows/repo-checks.yml/badge.svg)](https://github.com/watsonk1998/obsidian-engram-playbook/actions/workflows/repo-checks.yml)
+[![Release](https://img.shields.io/github/v/release/watsonk1998/obsidian-engram-playbook)](https://github.com/watsonk1998/obsidian-engram-playbook/releases)
+
 **Language:** English | [简体中文](README.zh-CN.md)
 
 ## Highlights
@@ -36,6 +39,10 @@ This repo packages a reusable approach for combining:
 - **Engram** as reusable long-term memory
 - **LLM agents** as operators for writing, synthesis, and maintenance
 - **Daily / weekly / monthly reviews** as the main governance rhythm
+
+## Architecture at a glance
+
+![Architecture overview](assets/architecture-overview.svg)
 
 ## Core principles
 

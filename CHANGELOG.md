@@ -6,6 +6,13 @@ This project follows a simple human-maintained changelog style.
 
 ## [Unreleased]
 
+### Added
+- GitHub Actions workflow for `doctor.sh` and `sanitize_scan.sh`
+- Repository homepage architecture diagram (`assets/architecture-overview.svg`)
+
+### Changed
+- Added README badges and architecture overview section to both English and Chinese entry pages
+
 ### Planned
 - Refine public examples
 - Expand bilingual entry points where useful

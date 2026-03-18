@@ -4,6 +4,9 @@
 
 > 一个可公开分享、已脱敏的框架仓库，用于把 Obsidian、Engram 和记忆/复盘工作流组织成可长期运行的系统。
 
+[![Repo Checks](https://github.com/watsonk1998/obsidian-engram-playbook/actions/workflows/repo-checks.yml/badge.svg)](https://github.com/watsonk1998/obsidian-engram-playbook/actions/workflows/repo-checks.yml)
+[![Release](https://img.shields.io/github/v/release/watsonk1998/obsidian-engram-playbook)](https://github.com/watsonk1998/obsidian-engram-playbook/releases)
+
 **语言：** [English](README.md) | 简体中文
 
 ## 这个项目为什么存在
@@ -31,6 +34,10 @@
 - **Engram**：作为可复用的长期记忆层
 - **LLM Agents**：作为写作、整理、综合与维护的执行者
 - **日 / 周 / 月复盘**：作为主要治理节奏
+
+## 架构总览
+
+![架构总览](assets/architecture-overview.svg)
 
 ## 核心原则
 
