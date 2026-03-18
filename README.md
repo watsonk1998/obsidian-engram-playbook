@@ -42,7 +42,12 @@ This repo packages a reusable approach for combining:
 
 ## Architecture at a glance
 
-![Architecture overview](assets/architecture-overview.svg)
+<p align="center">
+  <img src="assets/architecture-overview.svg" alt="Architecture overview" width="960">
+</p>
+<p align="center">
+  <sub>Three layers: default-on Obsidian base layer, governance layer, and Engram memory layer.</sub>
+</p>
 
 ## Core principles
 
@@ -119,7 +124,12 @@ It is mainly about:
 
 ## Getting started flow
 
-![Getting started flow](assets/getting-started-flow.svg)
+<p align="center">
+  <img src="assets/getting-started-flow.svg" alt="Getting started flow" width="940">
+</p>
+<p align="center">
+  <sub>Read → copy → adapt → check → run in your private vault and memory setup.</sub>
+</p>
 
 ## Repository tour
 

@@ -37,7 +37,12 @@
 
 ## 架构总览
 
-![架构总览](assets/architecture-overview.svg)
+<p align="center">
+  <img src="assets/architecture-overview.svg" alt="架构总览" width="960">
+</p>
+<p align="center">
+  <sub>三层结构：默认生效的 Obsidian 基础层、治理层、以及 Engram 记忆层。</sub>
+</p>
 
 ## 核心原则
 
@@ -101,7 +106,12 @@ Obsidian 继续承担“可读、可回顾、可导航”的工作表层。
 
 ## 上手流程图
 
-![上手流程图](assets/getting-started-flow.svg)
+<p align="center">
+  <img src="assets/getting-started-flow.svg" alt="上手流程图" width="940">
+</p>
+<p align="center">
+  <sub>阅读 → 复制 → 适配 → 检查 → 在你的私有 vault 与记忆系统中运行。</sub>
+</p>
 
 ## 仓库结构
 
