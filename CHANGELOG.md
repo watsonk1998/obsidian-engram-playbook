@@ -12,6 +12,7 @@ This project follows a simple human-maintained changelog style.
 - Getting-started flow diagram (`assets/getting-started-flow.svg`)
 - GitHub social preview asset (`assets/social-preview.png`)
 - Issue templates and pull request template under `.github/`
+- Two alternate social preview images: `social-preview-minimal.png` and `social-preview-system-map.png`
 
 ### Changed
 - Added README badges and architecture overview section to both English and Chinese entry pages
