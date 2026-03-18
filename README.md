@@ -115,19 +115,6 @@ This repo may be useful if you want to combine:
 - periodic review workflows
 - durable memory beyond a single chat window
 
-## What makes this different
-
-This project is not mainly about:
-- plugin lists
-- visual customization
-- note-taking hacks in isolation
-
-It is mainly about:
-- making Obsidian usable for real operational work
-- keeping agent outputs structured and low-noise
-- separating readable vault content from reusable memory
-- publishing the method without leaking the private vault
-
 ## Quick start
 
 1. Read `docs/architecture.md`
@@ -186,27 +173,9 @@ See:
 - `docs/publishing-boundary.md`
 - `SECURITY.md`
 
-## Project metadata
-
-- **Repository:** https://github.com/watsonk1998/obsidian-engram-playbook
-- **Website field:** https://github.com/watsonk1998/obsidian-engram-playbook#readme
-- **Social preview asset:** `assets/social-preview.png`
-
 ## Changelog
 
 See `CHANGELOG.md`.
-
-## Current contents
-
-Included in v1:
-
-- public repo structure
-- sanitization checklist
-- publishing-boundary guidance
-- first-pass architecture docs
-- note and report templates
-- sanitized skill examples
-- generic helper scripts
 
 ## Suggested adaptation path
 
@@ -216,12 +185,9 @@ Included in v1:
 4. Keep private notes and memory stores outside this repo
 5. Treat this repo as a framework, not as a vault dump
 
-## Status
-
-Early public skeleton.  
-The goal is clarity and safety first, not completeness.
-
 ## Roadmap
+
+Early public release. The priority is clarity, safety, and reuse—not completeness.
 
 ### Near term
 - [ ] Expand sanitized examples for more note and report types

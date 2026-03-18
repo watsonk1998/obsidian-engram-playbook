@@ -167,27 +167,9 @@ assets/      可公开的图示或截图
 - `docs/publishing-boundary.md`
 - `SECURITY.md`
 
-## 项目元信息
-
-- **仓库：** https://github.com/watsonk1998/obsidian-engram-playbook
-- **Website 字段：** https://github.com/watsonk1998/obsidian-engram-playbook#readme
-- **Social preview 素材：** `assets/social-preview.png`
-
 ## Changelog
 
 见 `CHANGELOG.md`。
-
-## 当前版本包含
-
-v1 目前包含：
-
-- 公开仓库骨架
-- 脱敏清单
-- 发布边界说明
-- 第一版架构文档
-- 日/周/月模板
-- 基础 skill 示例
-- 通用辅助脚本
 
 ## 建议使用方式
 
@@ -198,6 +180,8 @@ v1 目前包含：
 5. 把这个 repo 当作 framework，而不是 vault 快照
 
 ## 路线图
+
+当前还是早期公开版本，优先保证清晰、安全、可复用，而不是一次性做全。
 
 ### 近期
 - [ ] 增加更多脱敏示例
