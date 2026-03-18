@@ -4,6 +4,15 @@
 
 > A public, sanitized framework for running an Obsidian vault with durable memory, periodic review loops, and agent-friendly workflows.
 
+## Highlights
+
+- **Default-on base layer** for Obsidian authoring
+- **Engram-first memory model** for reusable lessons and rules
+- **Daily / weekly / monthly review loop** with evidence-first synthesis
+- **Minimal file proliferation** as a hard governance preference
+- **Built-in publishing boundary** for safe open-sourcing
+- **Built-in sanitize scan** before public push
+
 ## Why this exists
 
 Most “Obsidian setups” focus on plugins, aesthetics, or note-taking tricks.
@@ -76,6 +85,19 @@ This repo may be useful if you want to combine:
 - AI agents as note operators and synthesizers
 - periodic review workflows
 - durable memory beyond a single chat window
+
+## What makes this different
+
+This project is not mainly about:
+- plugin lists
+- visual customization
+- note-taking hacks in isolation
+
+It is mainly about:
+- making Obsidian usable for real operational work
+- keeping agent outputs structured and low-noise
+- separating readable vault content from reusable memory
+- publishing the method without leaking the private vault
 
 ## Quick start
 
@@ -150,6 +172,36 @@ Included in v1:
 
 Early public skeleton.  
 The goal is clarity and safety first, not completeness.
+
+## Roadmap
+
+### Near term
+- [ ] Expand sanitized examples for more note and report types
+- [ ] Add a public-safe example MOC and navigation pattern
+- [ ] Add a cleaner visual diagram for the review/memory flow
+- [ ] Add a parameterized installer/bootstrap guide
+
+### Mid term
+- [ ] Add multi-agent usage examples for journal/review workflows
+- [ ] Add more polished `.base` and `.canvas` examples
+- [ ] Add a migration guide from graph-heavy vaults to Engram-first governance
+- [ ] Add CI checks for basic sanitize/publish gates
+
+### Long term
+- [ ] Publish a small end-to-end demo vault
+- [ ] Add optional integrations for other agent runtimes
+- [ ] Turn the playbook into a more complete public starter kit
+
+## Contributing
+
+Contributions are welcome, but this repo is intentionally opinionated.
+
+Please read `CONTRIBUTING.md` before opening a pull request.  
+Especially important:
+- keep examples sanitized
+- keep scripts generic
+- do not add private-vault assumptions
+- run the local safety checks before proposing changes
 
 ## License
 
