@@ -1,13 +1,28 @@
-# Obsidian Engram Playbook
+<h1 align="center">Obsidian Engram Playbook</h1>
 
-**Engram-first knowledge governance for Obsidian + LLM agents**
+<p align="center"><strong>Engram-first knowledge governance for Obsidian + LLM agents</strong></p>
 
-> A public, sanitized framework for running an Obsidian vault with durable memory, periodic review loops, and agent-friendly workflows.
+<p align="center">
+  A public-safe framework for running an Obsidian vault with durable memory, periodic review loops,
+  and low-friction agent workflows.
+</p>
 
-[![Repo Checks](https://github.com/watsonk1998/obsidian-engram-playbook/actions/workflows/repo-checks.yml/badge.svg)](https://github.com/watsonk1998/obsidian-engram-playbook/actions/workflows/repo-checks.yml)
-[![Release](https://img.shields.io/github/v/release/watsonk1998/obsidian-engram-playbook)](https://github.com/watsonk1998/obsidian-engram-playbook/releases)
+<p align="center">
+  <a href="https://github.com/watsonk1998/obsidian-engram-playbook/actions/workflows/repo-checks.yml">
+    <img src="https://github.com/watsonk1998/obsidian-engram-playbook/actions/workflows/repo-checks.yml/badge.svg" alt="Repo Checks">
+  </a>
+  <a href="https://github.com/watsonk1998/obsidian-engram-playbook/releases">
+    <img src="https://img.shields.io/github/v/release/watsonk1998/obsidian-engram-playbook" alt="Release">
+  </a>
+</p>
 
-**Language:** English | [简体中文](README.zh-CN.md)
+<p align="center">
+  <strong>Language:</strong> English · <a href="README.zh-CN.md">简体中文</a>
+</p>
+
+<p align="center">
+  <sub>Publish the framework, not the life data.</sub>
+</p>
 
 ## Highlights
 

@@ -1,13 +1,27 @@
-# Obsidian Engram Playbook
+<h1 align="center">Obsidian Engram Playbook</h1>
 
-**面向 Obsidian + LLM Agents 的 Engram-first 知识治理框架**
+<p align="center"><strong>面向 Obsidian + LLM Agents 的 Engram-first 知识治理框架</strong></p>
 
-> 一个可公开分享、已脱敏的框架仓库，用于把 Obsidian、Engram 和记忆/复盘工作流组织成可长期运行的系统。
+<p align="center">
+  一个可公开分享、已脱敏的框架仓库，用于把 Obsidian、Engram 和记忆/复盘工作流组织成可长期运行的系统。
+</p>
 
-[![Repo Checks](https://github.com/watsonk1998/obsidian-engram-playbook/actions/workflows/repo-checks.yml/badge.svg)](https://github.com/watsonk1998/obsidian-engram-playbook/actions/workflows/repo-checks.yml)
-[![Release](https://img.shields.io/github/v/release/watsonk1998/obsidian-engram-playbook)](https://github.com/watsonk1998/obsidian-engram-playbook/releases)
+<p align="center">
+  <a href="https://github.com/watsonk1998/obsidian-engram-playbook/actions/workflows/repo-checks.yml">
+    <img src="https://github.com/watsonk1998/obsidian-engram-playbook/actions/workflows/repo-checks.yml/badge.svg" alt="Repo Checks">
+  </a>
+  <a href="https://github.com/watsonk1998/obsidian-engram-playbook/releases">
+    <img src="https://img.shields.io/github/v/release/watsonk1998/obsidian-engram-playbook" alt="Release">
+  </a>
+</p>
 
-**语言：** [English](README.md) | 简体中文
+<p align="center">
+  <strong>语言：</strong><a href="README.md">English</a> · 简体中文
+</p>
+
+<p align="center">
+  <sub>公开的是 framework，不是 life data。</sub>
+</p>
 
 ## 这个项目为什么存在
 
