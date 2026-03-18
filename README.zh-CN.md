@@ -99,6 +99,10 @@ Obsidian 继续承担“可读、可回顾、可导航”的工作表层。
 5. 运行 `scripts/doctor.sh`
 6. 任何公开分享前先运行 `scripts/sanitize_scan.sh`
 
+## 上手流程图
+
+![上手流程图](assets/getting-started-flow.svg)
+
 ## 仓库结构
 
 ```text
@@ -138,6 +142,12 @@ assets/      可公开的图示或截图
 - `docs/sanitization-checklist.md`
 - `docs/publishing-boundary.md`
 - `SECURITY.md`
+
+## 项目元信息
+
+- **仓库：** https://github.com/watsonk1998/obsidian-engram-playbook
+- **Website 字段：** https://github.com/watsonk1998/obsidian-engram-playbook#readme
+- **Social preview 素材：** `assets/social-preview.png`
 
 ## Changelog
 

@@ -117,6 +117,10 @@ It is mainly about:
 5. Run `scripts/doctor.sh`
 6. Run `scripts/sanitize_scan.sh` before publishing anything derived from this repo
 
+## Getting started flow
+
+![Getting started flow](assets/getting-started-flow.svg)
+
 ## Repository tour
 
 ```text
@@ -156,6 +160,12 @@ See:
 - `docs/sanitization-checklist.md`
 - `docs/publishing-boundary.md`
 - `SECURITY.md`
+
+## Project metadata
+
+- **Repository:** https://github.com/watsonk1998/obsidian-engram-playbook
+- **Website field:** https://github.com/watsonk1998/obsidian-engram-playbook#readme
+- **Social preview asset:** `assets/social-preview.png`
 
 ## Changelog
 

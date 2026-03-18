@@ -9,9 +9,12 @@ This project follows a simple human-maintained changelog style.
 ### Added
 - GitHub Actions workflow for `doctor.sh` and `sanitize_scan.sh`
 - Repository homepage architecture diagram (`assets/architecture-overview.svg`)
+- Getting-started flow diagram (`assets/getting-started-flow.svg`)
+- GitHub social preview asset (`assets/social-preview.png`)
 
 ### Changed
 - Added README badges and architecture overview section to both English and Chinese entry pages
+- Added getting-started flow and project metadata section to both English and Chinese entry pages
 
 ### Planned
 - Refine public examples
