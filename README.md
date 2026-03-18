@@ -4,6 +4,8 @@
 
 > A public, sanitized framework for running an Obsidian vault with durable memory, periodic review loops, and agent-friendly workflows.
 
+**Language:** English | [简体中文](README.zh-CN.md)
+
 ## Highlights
 
 - **Default-on base layer** for Obsidian authoring
@@ -147,6 +149,10 @@ See:
 - `docs/sanitization-checklist.md`
 - `docs/publishing-boundary.md`
 - `SECURITY.md`
+
+## Changelog
+
+See `CHANGELOG.md`.
 
 ## Current contents
 
