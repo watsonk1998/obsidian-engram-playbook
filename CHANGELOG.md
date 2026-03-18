@@ -16,6 +16,8 @@ This project follows a simple human-maintained changelog style.
 ### Added
 - Initial public repository skeleton
 - README homepage for the public project
+- Simplified Chinese README entry point (`README.zh-CN.md`)
+- Core Chinese docs under `docs/zh-CN/`
 - `SECURITY.md`
 - `CONTRIBUTING.md`
 - Publishing-boundary guidance
