@@ -1,4 +1,4 @@
-<h1 align="center">Obsidian Engram Playbook</h1>
+<h1 align="center">DeepEngram-harness</h1>
 
 <p align="center"><strong>Engram-first knowledge governance for Obsidian + LLM agents</strong></p>
 
@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/watsonk1998/obsidian-engram-playbook/actions/workflows/repo-checks.yml">
-    <img src="https://github.com/watsonk1998/obsidian-engram-playbook/actions/workflows/repo-checks.yml/badge.svg" alt="Repo Checks">
+  <a href="https://github.com/watsonctl/deepengram-harness/actions/workflows/repo-checks.yml">
+    <img src="https://github.com/watsonctl/deepengram-harness/actions/workflows/repo-checks.yml/badge.svg" alt="Repo Checks">
   </a>
-  <a href="https://github.com/watsonk1998/obsidian-engram-playbook/releases">
-    <img src="https://img.shields.io/github/v/release/watsonk1998/obsidian-engram-playbook" alt="Release">
+  <a href="https://github.com/watsonctl/deepengram-harness/releases">
+    <img src="https://img.shields.io/github/v/release/watsonctl/obsidian-engram-playbook" alt="Release">
   </a>
 </p>
 

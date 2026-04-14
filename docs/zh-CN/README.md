@@ -1,6 +1,6 @@
 # 中文文档索引
 
-这是 `obsidian-engram-playbook` 的中文入口文档目录。
+这是 `DeepEngram-harness` 的中文入口文档目录。
 
 当前优先提供最关键的 3 份中文文档：
 
