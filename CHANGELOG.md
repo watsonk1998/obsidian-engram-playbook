@@ -6,6 +6,12 @@ This project follows a simple human-maintained changelog style.
 
 ## [Unreleased]
 
+### Evaluated
+- Naming strategy deep-dive (2026-04-14): Scanned AGENTS.md, README, skills/, docs/ to assess whether to bind "DeepSeek" in the repo name. Finding: zero DeepSeek-related content exists in repo. Recommendation: keep `deepengram-harness` as the canonical name; `Deep-` prefix works as a coined term ("deep memory trace") without implying official DeepSeek integration. Alternative if explicit binding is desired: `engram-deepseek-harness` (requires adding DeepSeek integration content first).
+
+### Fixed
+- Prevented pipeline stalling during API burst limits (HTTP 429 single-day quota exhaustion) by implementing fail-fast termination and layer-segregation (routing bulk ingestion to `flash` and inference to `pro` models).
+
 ### Added
 - GitHub Actions workflow for `doctor.sh` and `sanitize_scan.sh`
 - Repository homepage architecture diagram (`assets/architecture-overview.svg`)
